@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fadi Futainah</h1>
+<h1 align="center">Hi there 👋, I'm Fadi Futainah</h1>
 <h3 align="center">A Software Engineer student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadifutainah&label=Profile%20views&color=0e75b6&style=flat" alt="fadifutainah" /> </p>
 
-- 🔭 I’m currently working on **multi Flutter Project**
+- 🔭 I’m currently working on **a maps Flutter Project**
 
-- 👯 I’m looking to collaborate on **Django backend application**
+- 👯 I’m also collaborating in **Django backend application**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
